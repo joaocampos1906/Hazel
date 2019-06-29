@@ -6,3 +6,5 @@ The purpose of this repository is to follow a tutorial series on game engines by
 1 - Project Setup - https://www.youtube.com/watch?v=KG8cAGvn9d4
 
 2 - EntryPoint - https://www.youtube.com/watch?v=meARMOmTLgE
+
+3 - Logging - https://www.youtube.com/watch?v=dZr-53LAlOw
