@@ -8,3 +8,5 @@ The purpose of this repository is to follow a tutorial series on game engines by
 2 - EntryPoint - https://www.youtube.com/watch?v=meARMOmTLgE
 
 3 - Logging - https://www.youtube.com/watch?v=dZr-53LAlOw
+
+4 - Premake - https://www.youtube.com/watch?v=sULV3aB2qeU
