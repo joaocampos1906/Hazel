@@ -14,3 +14,5 @@ The purpose of this repository is to follow a tutorial series on game engines by
 5 - Planning the Event System - https://www.youtube.com/watch?v=5mlziHwq90k
 
 6 - Event System - https://www.youtube.com/watch?v=xnopUoZbMEk
+
+7 - Precompiled Headers - https://www.youtube.com/watch?v=UQ718BrbQ5E
